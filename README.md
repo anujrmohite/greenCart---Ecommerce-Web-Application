@@ -23,9 +23,13 @@ To Run this project
 ```bash
 cd greenCart---Ecommerce-Web-Application/
 npm install
-cd greenCart---Ecommerce-Web-Application/client/
+```
+```
+cd client/
 npm install
-cd greenCart---Ecommerce-Web-Application/server/
+```
+```
+cd ../server/
 npm install
 ```
 
