@@ -52,9 +52,6 @@ http://localhost:3000
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`OPENAI_API_KEY`
-`PINECONE_API_KEY`
-`PINECONE_ENV`
 `PORT`
 `MONGO_URI`
 `JWT_SECRET`
